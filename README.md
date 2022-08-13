@@ -1,0 +1,1 @@
+Implementation of Merge Sort algorithm using the Ada programming language. In order to explore the concurrent capabilities of Ada, this version of the algorithm uses concurracy to improve the running time. 
